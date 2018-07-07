@@ -1,4 +1,4 @@
-[29-Jun-2016 05:53:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alamacsoft/public_html/deltavisionsolution.com/Delta_Admin/config.php on line 34
+1[29-Jun-2016 05:53:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alamacsoft/public_html/deltavisionsolution.com/Delta_Admin/config.php on line 34
 [29-Jun-2016 05:53:33 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/alamacsoft/public_html/deltavisionsolution.com/Delta_Admin/config.php on line 35
 [29-Jun-2016 08:00:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alamacsoft/public_html/deltavisionsolution.com/Delta_Admin/config.php on line 34
 [29-Jun-2016 08:00:37 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/alamacsoft/public_html/deltavisionsolution.com/Delta_Admin/config.php on line 35
